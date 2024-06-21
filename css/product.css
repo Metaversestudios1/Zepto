@@ -1,0 +1,16 @@
+.chosen-container.chosen-container-single {
+    width: 100% !important;
+}
+.chosen-container-single .chosen-single
+{
+	    height: 40px;
+    background: white;
+    font-size: 14px;
+    color: #000 !important;
+    padding: 10px 12px;
+	border: 1px solid #ced4da !important; 
+}
+.chosen-container-single .chosen-single div b
+{
+	    margin-top: 50%;
+}
